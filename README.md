@@ -1,2 +1,3 @@
-# Exploratary-Data-Analysis-EDA-
-In this project, we have a data set which includes TV, Radio and newspaper advertising spendings and their impacts on sales of a product.
+# Exploratary-Data-Analysis-EDA
+
+In this project, we have a data set which includes TV, Radio and newspaper advertising spendings and their impacts on sales of a product. We have a data which consists of 200 samples, 3 attributes and 1 target. By means of z-core test we'll detect outliers sample and we'll drop them out of our dataframe. After scaling dataframe we'll visualise relationships between attributes and target value. We proved that there is a linear relationship between TV ads spendings and sales income by means of significance test. Finally we suggested that we should use linear regression model for the next steps.
